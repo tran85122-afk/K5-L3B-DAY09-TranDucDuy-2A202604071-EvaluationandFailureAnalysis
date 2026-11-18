@@ -1,0 +1,3 @@
+# Keep eval fixtures and JSON/JSONL byte-identical across Windows and Linux CI.
+*.jsonl text eol=lf
+*.json text eol=lf
